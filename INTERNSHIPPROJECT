@@ -1,0 +1,7 @@
+name=["abinaya","deepika","monisha"]
+name.append("akshaya")
+marks=[80,90,70]
+print(name)
+print(marks[2])
+print(len(name))
+print(len(marks))
